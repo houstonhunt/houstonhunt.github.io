@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+<b>Masters Student</b> at Carnegie Mellon University studying Information Security with an current special interest in cyber forensics and anti-forensic techniques.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+**Risk Analyst** with multiple years of professional and academic experience. I am available for proofreading and providing meaningful feedback to professional Risk Assessments and related documents (Vulnerability Assessments, Memorandums).  Please feel free to contact me if you are interested in this service.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+**Cyber Security Professional** with development/engineering, analysis, and strategic skills.
