@@ -20,7 +20,7 @@ Other things to note:
 * libpcap/winpcap - API libraries for linux and windows respectively ( if you install wireshark on windows you will be prompted to install winpcap in the installer)
 * BPF - Berkley Packet Filter - syntax used to filter traffic at capture, used often in tcpdump and in a capture filter in wireshark
 
-I really enjoy using tcpdump because it is a simple terminal interface for capturing network traffic.  I recommend **[this]**(https://danielmiessler.com/study/tcpdump/) as quickstart guide and **[this]**(http://www.wains.be/pub/networking/tcpdump_advanced_filters.txt) when you want to get specific with the fields within a packet.  The man pages are straightforward as well.
+I really enjoy using tcpdump because it is a simple terminal interface for capturing network traffic.  I recommend **[this](https://danielmiessler.com/study/tcpdump/)** as quickstart guide and **[this](http://www.wains.be/pub/networking/tcpdump_advanced_filters.txt)** when you want to get specific with the fields within a packet.  The man pages are straightforward as well.
 
 Wireshark is not my favorite application because I think the GUI can be a bit clunky, but it has some great features if you navigate it.  *tshark* literally stands for *t*erminal*shark*. It is a bit more annoying and less intuitive in my opinion to use than tcpdump.  'dumpcap' is basically a *dumb*cap program which simply records all network traffic.
 
